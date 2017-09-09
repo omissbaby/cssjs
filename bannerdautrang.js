@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://connhikhucgiatot.blogspot.com' target='_blank'><img src='https://scontent.fsgn5-2.fna.fbcdn.net/v/t1.0-9/20840799_915555875266217_1480540282495804500_n.jpg?oh=9e90877aab65513a571fd004afc8c1f1&oe=5A4A57A2' width='500px'/><br/>Côn nhị khúc giá rẻ</a>. Liên hệ: 01694126460. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://connhikhucgiatot.blogspot.com' target='_blank'><img src='https://1.bp.blogspot.com/-6C_f-aj4inI/WbFRJOPyMOI/AAAAAAAAAKA/zV2cnp8Z-e4w5f_xdNIbfhBbTMXu9QDfQCLcBGAs/s320/con-nhi-khuc.jpg' width='500px'/><br/>Côn nhị khúc giá rẻ</a>. Liên hệ: 01694126460. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
